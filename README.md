@@ -1,6 +1,6 @@
 # Prometheus and Blackbox Exporter to monitor resource availability
 
-![Targets](TODO "Targets")
+![Targets](https://github.com/G1fi/Prometheus-and-Blackbox-Exporter-to-monitor-resource-availability/blob/main/targets.png?raw=true "Targets")
 
 ## Для чего этот репозиторий?
 
@@ -37,7 +37,7 @@
 
 Вот как может выглядеть результат:
 
-![Grafana](TODO "Grafana")
+![Grafana](https://github.com/G1fi/Prometheus-and-Blackbox-Exporter-to-monitor-resource-availability/blob/main/grafana.png?raw=true "Grafana")
 
 Так же в графане можно настроить алерты для уведомлений о недоступности ресурса n-ое количество времени. С помощью запроса:
 
